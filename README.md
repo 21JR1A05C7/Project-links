@@ -1,8 +1,8 @@
-#Project Links
+# Project Links
 
-##Aira Gaming:
+## Aira Gaming:
 https://airagaming.vercel.app/
-##MyChat:
+## MyChat:
 https://mychat-c7.vercel.app/
-##Simple calculator:
+## Simple calculator:
 https://calculator-mahendra.vercel.app/
